@@ -11,7 +11,7 @@ Kitematic is a simple application for managing Docker containers on Mac, Linux a
 
 [Download the latest version](https://docker.com/toolbox) of Kitematic via the Docker Toolbox.
 
-## Documentation
+## Documentation 
 
 Kitematic's documentation and other information can be found at [http://kitematic.com/docs](http://kitematic.com/docs).
 
